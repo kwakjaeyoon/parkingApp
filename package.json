@@ -1,0 +1,19 @@
+{
+  "name": "parkingapp",
+  "version": "1.0.0",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-utils": "^1.2.21",
+    "express": "^4.17.1",
+    "firebase": "^8.6.1",
+    "serialport": "^9.1.0",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
